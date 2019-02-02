@@ -1,0 +1,117 @@
+//3Dcarousel
+#swiper-container1 {
+    height: 400px;
+    position: relative;
+    
+    
+}
+#swiper-container2 {
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color:#fff7fa;
+}
+
+.swiper-container {
+    width: 50%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: absolute !important;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 9999 !important;
+}
+
+.swiper-slide {
+    width: 250px !important;
+    height: 350px !important;
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #dad2d2;
+    
+}
+.swiper-slide .image {
+     background-image: url("https://res.cloudinary.com/aarav/image/upload/v1547464665/laurel-wreath-297311_1280_fc1wuw.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    width: 130px;
+    height: 120px;
+    margin-left: 40px;
+}
+.swiper-slide .image-circle {
+    border: 1px solid gray;
+    border-radius: 50%;
+    width: 86px;
+    height: 85px;
+    background-color: gainsboro;
+}
+.january-text {
+    margin-top: -22px;
+    margin-bottom: -20px !important;
+   
+}
+.january-text  {
+    font-size: 18px;
+    font-weight: 100;
+    margin-bottom: 0px;
+    color: gray;
+    letter-spacing: 2px;
+    
+}
+.cyber-peace-corps  h6 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #177182;
+}
+.cyber-peace-corps p {
+    color: #177182;
+    letter-spacing: 1px;
+    font-weight: 200;
+}
+
+.cyber-peace-corps .btn {
+    background: #466972;
+    color: white;
+    width: 100%;
+    border-radius: 0px !important;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-family: roboto;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.cyber-peace-corps h4 {
+    font-size: 18px;
+    color: #177182;
+}
+.swiper-slide h5 {
+    font-size: 30px;
+    font-weight: bold;
+    color: gray;
+}
+.swiper-slide h5 a {
+    text-decoration: none;
+    color: gray;
+}
+.swiper-slide h5 a:hover {
+    color: #177182;
+}
+.slide-arrow {
+   visibility: hidden;
+}
+@media  (max-width:768px){
+    .slide-arrow {
+        visibility: visible;
+    }
+}
+@media  (max-width:425px){
+    .swiper-container {
+        width: 250px;
+    }
+}
+//3Dcarousel-End
