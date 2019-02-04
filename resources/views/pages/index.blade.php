@@ -158,9 +158,9 @@ https://res.cloudinary.com/aarav/image/upload/v1545718983/stat_d0j0sz.png --}}
                             
                             <div class="row">
                                 <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
+                                    <div class="news-box ml-0 mr-md-3"></div>
                                 </div>
-                                <div class="col-md-8 col-sm-8 col-8 pl-2">
+                                <div class="col-md-8 col-sm-8 col-8 pl-2 right-box">
                                     
                                     <h5 class="mb-2 mt-0">News header</h5>
                                     <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>

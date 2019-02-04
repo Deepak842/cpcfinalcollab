@@ -133,7 +133,7 @@
           <div class="col-md-12"><hr class="hr_mini-footer"></div>
        <div class="row">
             <div class="col-md-3 col-sm-12 p-0">
-              <img src="https://res.cloudinary.com/aarav/image/upload/v1544650637/logoFinal_q0sk2u.png">
+              <img class="img-footer" src="https://res.cloudinary.com/aarav/image/upload/v1544650637/logoFinal_q0sk2u.png">
             </div>
 
           <div class="col-md-6 col-sm-12">
