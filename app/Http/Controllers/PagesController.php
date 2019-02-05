@@ -38,4 +38,9 @@ class PagesController extends Controller
         return view('auth.upload');
     }
 
+    public function contactus(){
+     
+        return view('pages.contactus');
+    }
+
 }

@@ -24,6 +24,7 @@ Route::get('/service', 'PagesController@services');
 Route::get('/home', 'PagesController@home');
 Route::get('/oath', 'PagesController@oath');
 Route::get('/upload', 'PagesController@upload');
+Route::get('/contactus', 'PagesController@contactus');
 
 Auth::routes();
 

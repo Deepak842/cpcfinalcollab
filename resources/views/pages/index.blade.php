@@ -156,55 +156,36 @@ https://res.cloudinary.com/aarav/image/upload/v1545718983/stat_d0j0sz.png --}}
                                 </div>
                             </div>
                             
-                            <div class="row">
+                            <div class="row box-row">
                                 <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box ml-0 mr-md-3"></div>
+                                    <div class="news-box ml-0 mr-md-3">
+                                       <img src="https://res.cloudinary.com/aarav/image/upload/v1549273939/1.1_fdvxin.png" width="100%" height="100%">
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-sm-8 col-8 pl-2 right-box">
                                     
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
+                                    <h5 class="mb-2 mt-0">Plugging Gaps</h5>
+                                    <p>Start-ups step in to plug gaps in India's cyber security Shield.</p>
                                     <hr class="mt-3">
                                     
                                 </div>
                             </div>
-                            <div class="row">
+                            <div class="row box-row">
                                 <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
+                                    <div class="news-box">
+                                    <img src="https://res.cloudinary.com/aarav/image/upload/v1549273939/1.2_j6hrml.png" width="100%" height="100%">
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-sm-8 col-8 pl-2">
                                     
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
-                                    <hr class="mt-3">
-                                    
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
-                                </div>
-                                <div class="col-md-8 col-sm-8 col-8 pl-2">
-                                    
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
+                                    <h5 class="mb-2 mt-0">Fighting Fake</h5>
+                                    <p>Jayalakshmi from CPF interview live on BBC News with Matthew Amroliwala.</p>
                                     <hr class="mt-3">
                                     
                                 </div>
                             </div>
                             
-                            <div class="row">
-                                <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
-                                </div>
-                                <div class="col-md-8 col-sm-8 col-8 pl-2">
-                                    
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
-                                    <hr class="mt-3">
-                                    
-                                </div>
-                            </div>
+                           
                             <div class="col-md-12 text-center">
                              <button type="button" class="btn btn-light ">Read more</button>
                             </div>
@@ -228,55 +209,37 @@ https://res.cloudinary.com/aarav/image/upload/v1545718983/stat_d0j0sz.png --}}
                                 </div>
                             </div>
                             
-                            <div class="row">
+                            <div class="row box-row">
                                 <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
+                                    <div class="news-box">
+                                    <img src="https://res.cloudinary.com/aarav/image/upload/v1549273939/2.1_kshefp.png" width="100%" height="100%">
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-sm-8 col-8 pl-2">
                                     
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
+                                    <h5 class="mb-2 mt-0">Safer Internet Day</h5>
+                                    <p>Awareness is the key to stay safe and make the most of the internet.</p>
                                     <hr class="mt-3">
                                     
                                 </div>
                             </div>
-                            <div class="row">
+                            <div class="row box-row">
                                 <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
+                                    <div class="news-box">
+                                    <img src="https://res.cloudinary.com/aarav/image/upload/v1549273939/2.2_qj2nbb.png" width="100%" height="100%">
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-sm-8 col-8 pl-2">
                                     
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
+                                    <h5 class="mb-2 mt-0">GCC</h5>
+                                    <p>Hosted across different nations and educational institutions.</p>
                                     <hr class="mt-3">
                                     
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
-                                </div>
-                                <div class="col-md-8 col-sm-8 col-8 pl-2">
-                                    
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
-                                    <hr class="mt-3">
-                                    
-                                </div>
-                            </div>
+                           
                             
-                            <div class="row">
-                                <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
-                                </div>
-                                <div class="col-md-8 col-sm-8 col-8 pl-2">
-                                    
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
-                                    <hr class="mt-3">
-                                    
-                                </div>
-                            </div>
+                            
                             <div class="col-md-12 text-center">
                              <button type="button" class="btn btn-light ">Read more</button>
                             </div>
@@ -298,55 +261,36 @@ https://res.cloudinary.com/aarav/image/upload/v1545718983/stat_d0j0sz.png --}}
                                 </div>
                             </div>
                             
-                            <div class="row">
+                            <div class="row box-row">
                                 <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
+                                    <div class="news-box">
+                                    <img src="https://res.cloudinary.com/aarav/image/upload/v1549273939/3.1_bnhgwu.png" width="100%" height="100%">
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-sm-8 col-8 pl-2">
                                     
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
+                                    <h5 class="mb-2 mt-0">Dark Web and Drugs</h5>
+                                    <p>The dark web has become a major source of illicit drugs.</p>
                                     <hr class="mt-3">
                                     
                                 </div>
                             </div>
-                            <div class="row">
+                            <div class="row box-row">
                                 <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
+                                    <div class="news-box">
+                                    <img src="https://res.cloudinary.com/aarav/image/upload/v1549273939/3.2_jvp5tf.png" width="100%" height="100%">
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-sm-8 col-8 pl-2">
                                     
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
-                                    <hr class="mt-3">
-                                    
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
-                                </div>
-                                <div class="col-md-8 col-sm-8 col-8 pl-2">
-                                    
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
+                                    <h5 class="mb-2 mt-0">Women and Cyber Safety</h5>
+                                    <p>Online Resilience, women and Cyber Safety.</p>
                                     <hr class="mt-3">
                                     
                                 </div>
                             </div>
                             
-                            <div class="row">
-                                <div class="col-md-4 col-sm-4 col-4 news-box-div">
-                                    <div class="news-box"></div>
-                                </div>
-                                <div class="col-md-8 col-sm-8 col-8 pl-2">
-                                    
-                                    <h5 class="mb-2 mt-0">News header</h5>
-                                    <p>Easy ways to talk with your<br> family and friends about ways<br> to stay safe online.</p>
-                                    <hr class="mt-3">
-                                    
-                                </div>
-                            </div>
+                            
                             <div class="col-md-12 text-center">
                              <button type="button" class="btn btn-light ">Read more</button>
                             </div>

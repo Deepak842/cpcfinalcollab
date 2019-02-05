@@ -9803,6 +9803,10 @@ p {
   border: none !important;
 }
 
+.box-row {
+  height: 100px;
+}
+
 @media (max-width: 576px) {
   .home_content {
     padding: 0px !important;
@@ -10116,6 +10120,13 @@ a:hover {
 .mark_journey {
   height: 50vh;
   color: #4099de;
+}
+
+@media (max-width: 425px) {
+  .img-responsive-map {
+    max-width: 300px;
+    max-height: 400px;
+  }
 }
 
 .register {

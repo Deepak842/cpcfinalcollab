@@ -26,3 +26,9 @@
     height: 50vh;
     color: #4099de;
 }
+@media (max-width:425px) {
+    .img-responsive-map {
+        max-width: 300px;
+        max-height: 400px;
+    }
+}

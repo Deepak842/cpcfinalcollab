@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-md  navbar-light bg-light pt-2 pr-5">
 
   <div class="container-fluid">
-      <a class="navbar-brand navbar-brand-d mx-auto" href="#">
+      <a class="navbar-brand navbar-brand-d mx-auto" href="/">
          <img src="https://res.cloudinary.com/aarav/image/upload/v1544650637/logoFinal_q0sk2u.png" class="img-responsive">
      </a>
 

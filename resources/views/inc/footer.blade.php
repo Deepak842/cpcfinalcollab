@@ -1,4 +1,4 @@
-<footer class="footer-area footer--light footer_style bg-primary">
+<footer class="footer-area footer--light footer_style bg-primary m-0">
     <div class="footer-big p-0 m-0 pt-2">
       <!-- start .container -->
       <div class="container">
@@ -106,7 +106,7 @@
                     <a href="#">Sitemap</a>
                   </li>
                   <li>
-                      <a href="#">Contact Us</a>
+                      <a href="contactus">Contact Us</a>
                     </li>
                     <li>
                         <a href="#">Resources</a>
